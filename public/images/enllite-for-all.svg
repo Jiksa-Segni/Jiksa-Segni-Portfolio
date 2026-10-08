@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#1B2638"/><stop offset="1" stop-color="#101725"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6379EB"/><stop offset="1" stop-color="#384CB5"/></linearGradient>
+    <linearGradient id="art" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#82E0C3"/><stop offset="1" stop-color="#4AA8A3"/></linearGradient>
+  </defs>
+  <rect width="960" height="480" fill="url(#bg)"/>
+  <circle cx="814" cy="85" r="175" fill="#6679EB" fill-opacity=".15"/>
+  <rect x="42" y="35" width="876" height="410" rx="16" fill="#F5F7FC"/>
+  <rect x="42" y="35" width="183" height="410" rx="16" fill="#202B43"/>
+  <path d="M209 35h16v410h-16z" fill="#202B43"/>
+  <rect x="65" y="57" width="31" height="31" rx="9" fill="url(#card)"/>
+  <path d="M74 79V65h4l9 9v-9h3v14h-4l-9-9v9h-3Z" fill="white"/>
+  <text x="107" y="70" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="700">ENLLITE</text>
+  <text x="107" y="83" fill="#AEBAD1" font-family="Arial,sans-serif" font-size="8">LEARN TOGETHER</text>
+  <text x="67" y="126" fill="#8492AC" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">LEARNING SPACE</text>
+  <rect x="60" y="140" width="147" height="32" rx="7" fill="#34415D"/>
+  <circle cx="77" cy="156" r="5" fill="#91A7FF"/>
+  <text x="91" y="160" fill="#F8FAFF" font-family="Arial,sans-serif" font-size="10">My learning</text>
+  <circle cx="77" cy="194" r="5" fill="#64748B"/>
+  <text x="91" y="198" fill="#B7C1D2" font-family="Arial,sans-serif" font-size="10">Courses</text>
+  <circle cx="77" cy="232" r="5" fill="#64748B"/>
+  <text x="91" y="236" fill="#B7C1D2" font-family="Arial,sans-serif" font-size="10">Messages</text>
+  <circle cx="77" cy="270" r="5" fill="#64748B"/>
+  <text x="91" y="274" fill="#B7C1D2" font-family="Arial,sans-serif" font-size="10">Resources</text>
+  <circle cx="77" cy="402" r="15" fill="#6679EB"/>
+  <text x="72" y="406" fill="white" font-family="Arial,sans-serif" font-size="9" font-weight="700">JS</text>
+  <text x="100" y="400" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="9" font-weight="700">Jiksa Segni</text>
+  <text x="100" y="414" fill="#AEBAD1" font-family="Arial,sans-serif" font-size="8">Student account</text>
+  <text x="258" y="81" fill="#273247" font-family="Arial,sans-serif" font-size="18" font-weight="700">Good morning, Jiksa</text>
+  <text x="258" y="101" fill="#7C8799" font-family="Arial,sans-serif" font-size="9">Keep learning — you're making great progress.</text>
+  <rect x="761" y="61" width="129" height="33" rx="16" fill="#EDF0FA"/>
+  <circle cx="780" cy="77" r="5" fill="#59BFA4"/>
+  <text x="794" y="80" fill="#465269" font-family="Arial,sans-serif" font-size="9">Student portal</text>
+  <rect x="258" y="124" width="632" height="106" rx="11" fill="url(#card)"/>
+  <circle cx="806" cy="167" r="61" fill="#FFFFFF" fill-opacity=".08"/>
+  <circle cx="806" cy="167" r="39" fill="#FFFFFF" fill-opacity=".09"/>
+  <path d="M786 185c0-21 8-35 20-35s20 14 20 35" stroke="#FFFFFF" stroke-opacity=".86" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="806" cy="142" r="10" fill="#FFFFFF" fill-opacity=".86"/>
+  <text x="282" y="159" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">CONTINUE LEARNING</text>
+  <text x="282" y="184" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">Web Development Basics</text>
+  <text x="282" y="204" fill="#E2E8FF" font-family="Arial,sans-serif" font-size="9">Module 04 · Responsive interfaces</text>
+  <text x="258" y="260" fill="#273247" font-family="Arial,sans-serif" font-size="12" font-weight="700">Your courses</text>
+  <text x="839" y="260" fill="#6679EB" font-family="Arial,sans-serif" font-size="9">VIEW ALL →</text>
+  <rect x="258" y="278" width="198" height="130" rx="10" fill="#F0F3FB"/>
+  <rect x="270" y="290" width="174" height="61" rx="7" fill="url(#art)"/>
+  <circle cx="403" cy="321" r="20" fill="#FFFFFF" fill-opacity=".28"/>
+  <path d="M392 327v-14l12 7-12 7Z" fill="white"/>
+  <text x="272" y="371" fill="#303C53" font-family="Arial,sans-serif" font-size="10" font-weight="700">Creative problem solving</text>
+  <text x="272" y="389" fill="#8B95A5" font-family="Arial,sans-serif" font-size="8">6 lessons · 72% complete</text>
+  <rect x="472" y="278" width="198" height="130" rx="10" fill="#F0F3FB"/>
+  <rect x="484" y="290" width="174" height="61" rx="7" fill="#E3D7FF"/>
+  <path d="m535 335 25-28 18 18 17-14 26 26H535Z" fill="#8B71CC"/>
+  <circle cx="631" cy="304" r="7" fill="#FFC866"/>
+  <text x="486" y="371" fill="#303C53" font-family="Arial,sans-serif" font-size="10" font-weight="700">Introduction to design</text>
+  <text x="486" y="389" fill="#8B95A5" font-family="Arial,sans-serif" font-size="8">8 lessons · 40% complete</text>
+  <rect x="686" y="278" width="204" height="130" rx="10" fill="#F0F3FB"/>
+  <rect x="698" y="290" width="180" height="61" rx="7" fill="#FCE4D7"/>
+  <rect x="724" y="308" width="44" height="26" rx="5" fill="#E89B74"/>
+  <rect x="779" y="301" width="69" height="7" rx="3.5" fill="#F0B094"/>
+  <rect x="779" y="316" width="55" height="6" rx="3" fill="#F0B094"/>
+  <rect x="779" y="329" width="61" height="6" rx="3" fill="#F0B094"/>
+  <text x="700" y="371" fill="#303C53" font-family="Arial,sans-serif" font-size="10" font-weight="700">Digital communication</text>
+  <text x="700" y="389" fill="#8B95A5" font-family="Arial,sans-serif" font-size="8">5 lessons · 18% complete</text>
+</svg>

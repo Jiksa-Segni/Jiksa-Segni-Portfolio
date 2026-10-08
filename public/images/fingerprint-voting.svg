@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#14252A"/><stop offset="1" stop-color="#10181E"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51D9B1"/><stop offset="1" stop-color="#248F9D"/></linearGradient>
+  </defs>
+  <rect width="960" height="480" fill="url(#bg)"/>
+  <circle cx="817" cy="115" r="177" fill="#38CDA8" fill-opacity=".1"/>
+  <rect x="42" y="35" width="876" height="410" rx="16" fill="#F4F7F8"/>
+  <rect x="42" y="35" width="205" height="410" rx="16" fill="#17262D"/>
+  <path d="M231 35h16v410h-16z" fill="#17262D"/>
+  <rect x="65" y="58" width="34" height="34" rx="10" fill="url(#accent)"/>
+  <path d="M82 66c-7 0-12 5-12 12 0 5 2 9 4 12m8-20c-4 0-7 3-7 8 0 5 2 9 4 12m3-15c-2 0-3 2-3 4 0 4 1 7 2 9m5-18c4 1 7 5 7 10 0 5-2 9-5 13" stroke="#0F2828" stroke-width="2" stroke-linecap="round"/>
+  <text x="111" y="71" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="10" font-weight="700">SECURE VOTE</text>
+  <text x="111" y="85" fill="#A6B7BC" font-family="Arial,sans-serif" font-size="8">BIOMETRIC SYSTEM</text>
+  <text x="67" y="129" fill="#82959A" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">DASHBOARD</text>
+  <rect x="60" y="143" width="163" height="33" rx="7" fill="#294047"/>
+  <circle cx="79" cy="159" r="5" fill="#54D5AD"/>
+  <text x="94" y="163" fill="#F6FBFC" font-family="Arial,sans-serif" font-size="10">Overview</text>
+  <circle cx="79" cy="199" r="5" fill="#6D858B"/>
+  <text x="94" y="203" fill="#C0CCCE" font-family="Arial,sans-serif" font-size="10">Voter registry</text>
+  <circle cx="79" cy="239" r="5" fill="#6D858B"/>
+  <text x="94" y="243" fill="#C0CCCE" font-family="Arial,sans-serif" font-size="10">Election setup</text>
+  <circle cx="79" cy="279" r="5" fill="#6D858B"/>
+  <text x="94" y="283" fill="#C0CCCE" font-family="Arial,sans-serif" font-size="10">Audit records</text>
+  <rect x="63" y="375" width="160" height="1" fill="#FFFFFF" fill-opacity=".12"/>
+  <circle cx="81" cy="405" r="13" fill="#1F8D83"/>
+  <path d="M74 406h14m-7-7v14" stroke="#D9FFF6" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="105" y="402" fill="#E7F1F2" font-family="Arial,sans-serif" font-size="9" font-weight="700">Election admin</text>
+  <text x="105" y="416" fill="#A7B7BA" font-family="Arial,sans-serif" font-size="8">System administrator</text>
+  <text x="276" y="82" fill="#1C3035" font-family="Arial,sans-serif" font-size="18" font-weight="700">Election overview</text>
+  <text x="276" y="102" fill="#839095" font-family="Arial,sans-serif" font-size="9">Verified identity. Transparent elections.</text>
+  <rect x="789" y="59" width="102" height="30" rx="15" fill="#E4F5EF"/>
+  <circle cx="807" cy="74" r="4" fill="#20A77F"/>
+  <text x="819" y="78" fill="#317D69" font-family="Arial,sans-serif" font-size="9" font-weight="700">SYSTEM LIVE</text>
+  <rect x="276" y="127" width="185" height="83" rx="9" fill="#FFFFFF" stroke="#E6EBED"/>
+  <text x="293" y="151" fill="#869397" font-family="Arial,sans-serif" font-size="9">REGISTERED VOTERS</text>
+  <text x="293" y="184" fill="#1A3539" font-family="Arial,sans-serif" font-size="25" font-weight="700">1,284</text>
+  <path d="m408 182 7-8 6 4 12-15" stroke="#27AA88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="474" y="127" width="185" height="83" rx="9" fill="#FFFFFF" stroke="#E6EBED"/>
+  <text x="491" y="151" fill="#869397" font-family="Arial,sans-serif" font-size="9">VERIFIED TODAY</text>
+  <text x="491" y="184" fill="#1A3539" font-family="Arial,sans-serif" font-size="25" font-weight="700">846</text>
+  <circle cx="618" cy="169" r="18" stroke="#E0F3EC" stroke-width="7"/>
+  <path d="M618 151a18 18 0 0 1 17 24" stroke="#2BB48B" stroke-width="7" stroke-linecap="round"/>
+  <rect x="672" y="127" width="219" height="83" rx="9" fill="#FFFFFF" stroke="#E6EBED"/>
+  <text x="689" y="151" fill="#869397" font-family="Arial,sans-serif" font-size="9">BALLOT STATUS</text>
+  <text x="689" y="181" fill="#1A3539" font-family="Arial,sans-serif" font-size="16" font-weight="700">Secure &amp; active</text>
+  <rect x="276" y="229" width="376" height="183" rx="10" fill="#FFFFFF" stroke="#E6EBED"/>
+  <text x="295" y="254" fill="#263A3E" font-family="Arial,sans-serif" font-size="11" font-weight="700">Verification activity</text>
+  <text x="295" y="270" fill="#99A3A5" font-family="Arial,sans-serif" font-size="8">Successful biometric checks · Today</text>
+  <path d="M301 369h323M301 338h323M301 307h323" stroke="#EDF0F0"/>
+  <path d="M306 357c26-5 28-37 56-26s31 18 54 4 29 12 53-3 34-31 55-16 35-9 52-24 27 4 40-6" stroke="#22A581" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="616" cy="286" r="4" fill="#22A581"/>
+  <rect x="665" y="229" width="226" height="183" rx="10" fill="#FFFFFF" stroke="#E6EBED"/>
+  <text x="683" y="254" fill="#263A3E" font-family="Arial,sans-serif" font-size="11" font-weight="700">Identity check</text>
+  <text x="683" y="270" fill="#99A3A5" font-family="Arial,sans-serif" font-size="8">Fingerprint authentication</text>
+  <circle cx="778" cy="338" r="51" fill="#EAF8F3"/>
+  <circle cx="778" cy="338" r="40" stroke="#C3EBDE" stroke-width="1"/>
+  <path d="M778 305c-18 0-29 14-29 31 0 13 4 22 9 30m20-51c-11 0-18 8-18 21 0 11 3 21 7 28m11-40c-5 0-8 4-8 10 0 10 2 18 5 25m9-48c13 3 21 14 21 29 0 10-3 19-9 27m-4-47c7 3 11 9 11 18 0 7-2 13-5 19" stroke="#269A7A" stroke-width="3" stroke-linecap="round"/>
+  <rect x="704" y="385" width="148" height="16" rx="8" fill="#E8F6F0"/>
+  <circle cx="716" cy="393" r="3" fill="#25A77F"/>
+  <text x="726" y="396" fill="#3E8972" font-family="Arial,sans-serif" font-size="8" font-weight="700">BIOMETRIC MATCHED</text>
+</svg>

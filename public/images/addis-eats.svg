@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#25201B"/><stop offset="1" stop-color="#101311"/></linearGradient>
+    <linearGradient id="food" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F0A968"/><stop offset="1" stop-color="#A84926"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FACB8D"/><stop offset="1" stop-color="#CA6B3C"/></linearGradient>
+  </defs>
+  <rect width="960" height="480" fill="url(#bg)"/>
+  <circle cx="817" cy="94" r="168" fill="#C56C38" fill-opacity=".13"/>
+  <rect x="44" y="36" width="872" height="408" rx="16" fill="#151816" stroke="#FFFFFF" stroke-opacity=".14"/>
+  <rect x="44" y="36" width="872" height="46" rx="16" fill="#202421"/>
+  <path d="M44 66h872v16H44z" fill="#202421"/>
+  <circle cx="67" cy="59" r="5" fill="#E58B58"/><circle cx="84" cy="59" r="5" fill="#E5C16E"/><circle cx="101" cy="59" r="5" fill="#72BA89"/>
+  <rect x="130" y="51" width="460" height="16" rx="8" fill="#FFFFFF" fill-opacity=".06"/>
+  <rect x="76" y="110" width="808" height="306" rx="12" fill="#1B201D"/>
+  <text x="108" y="147" fill="#F3B17B" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">ADDIS EATS</text>
+  <text x="108" y="193" fill="#FFF9F1" font-family="Arial,sans-serif" font-size="31" font-weight="700">Good food,</text>
+  <text x="108" y="229" fill="#FFF9F1" font-family="Arial,sans-serif" font-size="31" font-weight="700">right on time.</text>
+  <text x="108" y="258" fill="#B9BDB8" font-family="Arial,sans-serif" font-size="12">Discover your next favorite meal.</text>
+  <rect x="108" y="281" width="108" height="34" rx="17" fill="#D6814C"/>
+  <text x="128" y="303" fill="#20160F" font-family="Arial,sans-serif" font-size="11" font-weight="700">EXPLORE MENU</text>
+  <rect x="108" y="340" width="210" height="48" rx="8" fill="#252B27" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <circle cx="132" cy="364" r="12" fill="#E2935D" fill-opacity=".22"/>
+  <path d="M127 365c3-8 8-8 11 0-3 7-8 7-11 0Z" fill="#F2AF76"/>
+  <text x="153" y="360" fill="#F4F1E9" font-family="Arial,sans-serif" font-size="10" font-weight="700">Freshly prepared</text>
+  <text x="153" y="376" fill="#9EA49E" font-family="Arial,sans-serif" font-size="9">Made with care, every day</text>
+  <rect x="440" y="135" width="394" height="234" rx="13" fill="#272D28"/>
+  <path d="M440 265c51-74 110-105 176-82 64 22 110 89 218 15v158H440V265Z" fill="#343E34"/>
+  <circle cx="658" cy="249" r="90" fill="url(#food)"/>
+  <circle cx="658" cy="249" r="72" fill="#F1D9A7"/>
+  <circle cx="658" cy="249" r="58" fill="#BE6134"/>
+  <path d="M616 242c17-28 57-34 85-13 16 12 21 32 6 45-20 17-67 8-88-8-9-7-10-15-3-24Z" fill="url(#glow)"/>
+  <circle cx="638" cy="228" r="6" fill="#6A934D"/><circle cx="684" cy="265" r="7" fill="#6A934D"/><circle cx="667" cy="217" r="5" fill="#6A934D"/>
+  <rect x="720" y="153" width="94" height="28" rx="14" fill="#141916" fill-opacity=".85"/>
+  <text x="740" y="171" fill="#F8D8B4" font-family="Arial,sans-serif" font-size="10" font-weight="700">CHEF'S PICK</text>
+  <text x="466" y="393" fill="#F3EFE7" font-family="Arial,sans-serif" font-size="11" font-weight="700">TASTE THE CITY</text>
+  <text x="761" y="393" fill="#E9A573" font-family="Arial,sans-serif" font-size="10">ORDER NOW ↗</text>
+</svg>

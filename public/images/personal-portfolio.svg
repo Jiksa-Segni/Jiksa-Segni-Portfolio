@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" fill="none">
+  <defs>
+    <linearGradient id="screen" x1="80" y1="96" x2="888" y2="426" gradientUnits="userSpaceOnUse"><stop stop-color="#292929"/><stop offset="1" stop-color="#15191A"/></linearGradient>
+    <linearGradient id="photoShade" x1="670" y1="95" x2="880" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#292929" stop-opacity=".12"/><stop offset="1" stop-color="#111" stop-opacity=".68"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52D9AE"/><stop offset="1" stop-color="#00A678"/></linearGradient>
+    <clipPath id="photo"><path d="M642 96h245v312H642z"/></clipPath>
+  </defs>
+  <rect width="960" height="480" fill="#111514"/>
+  <circle cx="808" cy="104" r="180" fill="#38C69A" fill-opacity=".1"/>
+  <rect x="36" y="25" width="888" height="430" rx="18" fill="#202020" stroke="#FFFFFF" stroke-opacity=".13"/>
+  <rect x="36" y="25" width="888" height="43" rx="18" fill="#292929"/>
+  <path d="M36 52h888v16H36z" fill="#292929"/>
+  <circle cx="58" cy="47" r="4" fill="#E58B58"/><circle cx="72" cy="47" r="4" fill="#E5C16E"/><circle cx="86" cy="47" r="4" fill="#72BA89"/>
+  <rect x="112" y="39" width="365" height="16" rx="8" fill="#FFFFFF" fill-opacity=".07"/>
+  <rect x="58" y="82" width="844" height="326" rx="10" fill="url(#screen)"/>
+  <g clip-path="url(#photo)">
+    <image href="/profile.jpg" x="642" y="96" width="245" height="312" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="642" y="96" width="245" height="312" fill="#252525" fill-opacity=".34"/>
+    <rect x="642" y="96" width="245" height="312" fill="url(#photoShade)"/>
+  </g>
+  <path d="M58 82h570v326H58z" fill="#292929" fill-opacity=".83"/>
+  <text x="84" y="111" fill="#F3F4F4" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">J  JIKSA SEGNI</text>
+  <text x="452" y="111" fill="#D2D6D4" font-family="Arial,sans-serif" font-size="8">Home    About    Services    Projects    Experience</text>
+  <rect x="825" y="95" width="61" height="25" rx="12" fill="url(#accent)"/>
+  <text x="839" y="111" fill="#10231C" font-family="Arial,sans-serif" font-size="8" font-weight="700">LET'S TALK</text>
+  <text x="91" y="178" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="13">HI THERE!</text>
+  <text x="91" y="225" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">I am Jiksa</text>
+  <text x="91" y="268" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">Segni<tspan fill="#00C58D">|</tspan></text>
+  <text x="91" y="300" fill="#F2F2F2" font-family="Arial,sans-serif" font-size="16">Software Developer <tspan fill="#00C58D">&amp;</tspan> Computer Engineer</text>
+  <text x="91" y="326" fill="#CCCCCC" font-family="Arial,sans-serif" font-size="10">I make the complex simple—building useful digital experiences</text>
+  <text x="91" y="342" fill="#CCCCCC" font-family="Arial,sans-serif" font-size="10">with thoughtful design and solid engineering.</text>
+  <rect x="91" y="359" width="105" height="31" rx="2" fill="url(#accent)"/>
+  <text x="107" y="379" fill="#10231C" font-family="Arial,sans-serif" font-size="9" font-weight="700">CONTACT ME ↗</text>
+  <path d="M58 419h844" stroke="#FFFFFF" stroke-opacity=".15"/>
+  <text x="83" y="440" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="8" font-weight="700">EMAIL</text>
+  <text x="83" y="450" fill="#B9B9B9" font-family="Arial,sans-serif" font-size="7">jiksasegni21@gmail.com</text>
+  <text x="335" y="440" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="8" font-weight="700">FOCUS</text>
+  <text x="335" y="450" fill="#B9B9B9" font-family="Arial,sans-serif" font-size="7">Software Development</text>
+  <text x="545" y="440" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="8" font-weight="700">LOCATION</text>
+  <text x="545" y="450" fill="#B9B9B9" font-family="Arial,sans-serif" font-size="7">Addis Ababa, Ethiopia</text>
+</svg>
